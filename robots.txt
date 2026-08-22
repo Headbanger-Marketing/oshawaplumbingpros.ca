@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oshawaplumbingpros.ca/sitemap-index.xml
