@@ -1,2 +1,25 @@
 # Oshawa Plumbing Pros
-HVAC services in Ontario.
+
+> Oshawa Plumbing Pros is a local HVAC company serving Oshawa, Durham, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 721-3485  |  Email: contact@oshawaplumbingpros.ca  |  Website: https://oshawaplumbingpros.ca
+
+## Key pages
+
+- [Home](https://oshawaplumbingpros.ca/): Oshawa Plumbing Pros homepage with service overview and FAQ
+- [About](https://oshawaplumbingpros.ca/about/): About the company and service area
+- [Contact](https://oshawaplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://oshawaplumbingpros.ca/services/water-heaters/): Water Heaters in Oshawa, Ontario
+- [Drain Cleaning](https://oshawaplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Oshawa, Ontario
+- [Repiping](https://oshawaplumbingpros.ca/services/repiping/): Repiping in Oshawa, Ontario
+- [Fixtures & Toilets](https://oshawaplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Oshawa, Ontario
+- [Leak Detection & Repair](https://oshawaplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Oshawa, Ontario
+- [Sump Pumps & Backwater](https://oshawaplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Oshawa, Ontario
+- [Water Softeners & Filtration](https://oshawaplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Oshawa, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Oshawa are answered on the homepage.
